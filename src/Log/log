@@ -1,0 +1,6 @@
+2024-जन॰-03 14:21:14,217 [main] com.bravo.keywords.Keyword 
+  INFO  Luanching Url
+2024-जन॰-03 14:21:14,820 [main] com.bravo.pages.HomePage 
+  INFO  Entered product: [Ljava.lang.CharSequence;@40ab8a8 to search
+2024-जन॰-03 14:21:19,071 [main] com.bravo.pages.HomePage 
+  INFO  Entered product: [Ljava.lang.CharSequence;@7cedfa63 to search
